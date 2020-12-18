@@ -112,7 +112,7 @@
 <li>3,050&ndash;2,800 years ago:&nbsp;<a href="https://en.wikipedia.org/wiki/Alphabet" target="_blank" rel="nofollow noopener">Alphabetic</a>&nbsp;writing; the&nbsp;<a href="https://en.wikipedia.org/wiki/Phoenician_alphabet" target="_blank" rel="nofollow noopener">Phoenician alphabet</a>&nbsp;spreads around the Mediterranean</li>
 <li>2,300 years ago:&nbsp;<a href="https://en.wikipedia.org/wiki/Maya_writing" target="_blank" rel="nofollow noopener">Maya writing</a>, the only known full writing system developed in the Americas, emerges.</li>
 <li>2,260 years ago (260 BC): Earliest deciphered written records in South Asia (<a href="https://en.wikipedia.org/wiki/Middle_Indo-Aryan" target="_blank" rel="nofollow noopener">Middle Indo-Aryan</a>)</li>
-<li>1800s AD: Undesciphered&nbsp;<a href="https://en.wikipedia.org/wiki/Rongorongo" target="_blank" rel="nofollow noopener">Rongorongo</a>&nbsp;script on&nbsp;<a href="https://en.wikipedia.org/wiki/Easter_Island" target="_blank" rel="nofollow noopener">Easter Island</a>&nbsp;may mark the latest independent development of writing.</li>
+<li>1800s AD: Undeciphered&nbsp;<a href="https://en.wikipedia.org/wiki/Rongorongo" target="_blank" rel="nofollow noopener">Rongorongo</a>&nbsp;script on&nbsp;<a href="https://en.wikipedia.org/wiki/Easter_Island" target="_blank" rel="nofollow noopener">Easter Island</a>&nbsp;may mark the latest independent development of writing.</li>
 </ul>
 
 </br>
